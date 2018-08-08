@@ -1,0 +1,7 @@
+C:\Users\Ronan\source\repos\AdventureGame\AdventureGame\bin\Debug\AdventureGame.exe.config
+C:\Users\Ronan\source\repos\AdventureGame\AdventureGame\bin\Debug\AdventureGame.exe
+C:\Users\Ronan\source\repos\AdventureGame\AdventureGame\bin\Debug\AdventureGame.pdb
+C:\Users\Ronan\source\repos\AdventureGame\AdventureGame\obj\Debug\AdventureGame.csprojResolveAssemblyReference.cache
+C:\Users\Ronan\source\repos\AdventureGame\AdventureGame\obj\Debug\AdventureGame.csproj.CoreCompileInputs.cache
+C:\Users\Ronan\source\repos\AdventureGame\AdventureGame\obj\Debug\AdventureGame.exe
+C:\Users\Ronan\source\repos\AdventureGame\AdventureGame\obj\Debug\AdventureGame.pdb
